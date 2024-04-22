@@ -1,3 +1,3 @@
-for i in range(6):
+for i in range(19):
     if i % 2 == 0:
-        print('hello hello hello')
+        print('hello bello hello bello hello')
